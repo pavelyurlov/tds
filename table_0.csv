@@ -1,0 +1,138 @@
+index	name	u	p	V	G	H	L
+	root	1.0	3.037	34.03	2. mathematics of computing; 4.1. visualization; 5.1. artificial intelligence; 1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.17. regret bounds; 1.1.1.13.2. inverse reinforcement learning; 1.1.1.13.4. multi-agent reinforcement learning; 1.1.1.13.5. adversarial learning; 1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.7. data structures and algorithms for data management; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12.  inconsistent; 3.3. world wide web; 3.4. information retrieval; 3.1.2. data structures; 3.1.4. query languages; 3.1.1.1. relational database model; 3.1.1.2. entity relationship models; 3.1.1.3. graph-based database models; 3.1.1.4. physical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.4. incomplete data; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks; 3.1.5.1. deduplication; 3.1.5.2.  transformation and loading; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7 graph mining; 3.2.1.8. process mining; 3.2.1.11 text mining; 3.2.1.10. data mining tools; 3.2.1.9 sequence mining; 3.2.1.12 formal concept analysis; 5.2.2. learning settings; 5.2.5. cross-validation; 5.2.1.1. supervised learning; 5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.3.1. classification and regression trees; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14 multiresolution; 5.2.3.15 support vector machines; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	1.1.1.5. boosting; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.16. markov decision processes; 1.1.2.2. data provenance; 3.1.1.5.3. data provenance; 3.1.3.9.3. distributed database recovery; 3.1.5.4. data cleaning; 3.2.1.1. data cleaning; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.3.10. markov decision processes; 5.2.4.2.1. boosting	
+1	theory of computation	0.679	1.301	13.315	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.17. regret bounds; 1.1.1.13.2. inverse reinforcement learning; 1.1.1.13.4. multi-agent reinforcement learning; 1.1.1.13.5. adversarial learning; 1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.7. data structures and algorithms for data management; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12.  inconsistent	1.1.1.5. boosting; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.16. markov decision processes; 1.1.2.2. data provenance	
+1.1.1	machine learning theory	0.505	0.893	8.328	1.1.1.1. sample complexity and generalization bounds; 1.1.1.2. boolean function learning; 1.1.1.3. unsupervised learning and clustering; 1.1.1.4. kernel methods; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.12. structured prediction; 1.1.1.14. active learning; 1.1.1.15. semi-supervised learning; 1.1.1.17. regret bounds; 1.1.1.13.2. inverse reinforcement learning; 1.1.1.13.4. multi-agent reinforcement learning; 1.1.1.13.5. adversarial learning	1.1.1.5. boosting; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.16. markov decision processes	
+1.1.1.1	sample complexity and generalization bounds	0.0	0	0			
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.0	0	0			
+1.1.1.13	reinforcement learning	0.417	0.53	1.252	1.1.1.13.2. inverse reinforcement learning; 1.1.1.13.4. multi-agent reinforcement learning; 1.1.1.13.5. adversarial learning	1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning	
+1.1.1.13.1	sequential decision making	0.276	0.248	0		1.1.1.13.1. sequential decision making	
+1.1.1.13.2	inverse reinforcement learning	0.0	0	0			
+1.1.1.13.3	apprenticeship learning	0.313	0.282	0		1.1.1.13.3. apprenticeship learning	
+1.1.1.13.4	multi-agent reinforcement learning	0.0	0	0			
+1.1.1.13.5	adversarial learning	0.0	0	0			
+1.1.1.14	active learning	0.0	0	0			
+1.1.1.15	semi-supervised learning	0.0	0	0			
+1.1.1.16	markov decision processes	0.208	0.187	0		1.1.1.16. markov decision processes	
+1.1.1.17	regret bounds	0.0	0	0			
+1.1.1.2	boolean function learning	0.0	0	0			
+1.1.1.3	unsupervised learning and clustering	0.0	0	0			
+1.1.1.4	kernel methods	0.0	0	0.505	1.1.1.4. kernel methods		
+1.1.1.5	boosting	0.195	0.176	0		1.1.1.5. boosting	
+1.1.1.6	bayesian analysis	0.0	0	0			
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.0	0	0			
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.453	0.408	4.987	1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.7. data structures and algorithms for data management; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12.  inconsistent	1.1.2.2. data provenance	
+1.1.2.1	data exchange	0.0	0	0			
+1.1.2.10	logic and databases	0.0	0	0			
+1.1.2.11	theory of database privacy and security	0.0	0	0			
+1.1.2.12	 inconsistent	0.0	0	0			
+1.1.2.2	data provenance	0.453	0.408	0		1.1.2.2. data provenance	
+1.1.2.3	data modeling	0.0	0	0			
+1.1.2.4	database query languages	0.0	0	0			
+1.1.2.5	database constraints theory	0.0	0	0			
+1.1.2.6	database interoperability	0.0	0	0			
+1.1.2.7	data structures and algorithms for data management	0.0	0	0			
+1.1.2.8	database query processing and optimization	0.0	0	0			
+1.1.2.9	data integration	0.0	0	0			
+2	mathematics of computing	0.0	0	1.0	2. mathematics of computing		
+3	information systems	0.532	0.843	11.74	3.3. world wide web; 3.4. information retrieval; 3.1.2. data structures; 3.1.4. query languages; 3.1.1.1. relational database model; 3.1.1.2. entity relationship models; 3.1.1.3. graph-based database models; 3.1.1.4. physical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.4. incomplete data; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks; 3.1.5.1. deduplication; 3.1.5.2.  transformation and loading; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7 graph mining; 3.2.1.8. process mining; 3.2.1.11 text mining; 3.2.1.10. data mining tools; 3.2.1.9 sequence mining; 3.2.1.12 formal concept analysis	3.1.1.5.3. data provenance; 3.1.3.9.3. distributed database recovery; 3.1.5.4. data cleaning; 3.2.1.1. data cleaning	
+3.1	data management systems	0.506	0.695	8.864	3.1.2. data structures; 3.1.4. query languages; 3.1.1.1. relational database model; 3.1.1.2. entity relationship models; 3.1.1.3. graph-based database models; 3.1.1.4. physical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.4. incomplete data; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks; 3.1.5.1. deduplication; 3.1.5.2.  transformation and loading; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases	3.1.1.5.3. data provenance; 3.1.3.9.3. distributed database recovery; 3.1.5.4. data cleaning	
+3.1.1	database design and models	0.453	0.408	4.534	3.1.1.1. relational database model; 3.1.1.2. entity relationship models; 3.1.1.3. graph-based database models; 3.1.1.4. physical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.4. incomplete data; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data	3.1.1.5.3. data provenance	
+3.1.1.1	relational database model	0.0	0	0			
+3.1.1.2	entity relationship models	0.0	0	0			
+3.1.1.3	graph-based database models	0.0	0	0.453	3.1.1.3. graph-based database models		
+3.1.1.4	physical data models	0.0	0	0			
+3.1.1.5	data model extensions	0.453	0.408	2.72	3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.4. incomplete data; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data	3.1.1.5.3. data provenance	
+3.1.1.5.1	semi-structured data	0.0	0	0			
+3.1.1.5.2	data streams	0.0	0	0			
+3.1.1.5.3	data provenance	0.453	0.408	0		3.1.1.5.3. data provenance	
+3.1.1.5.4	incomplete data	0.0	0	0			
+3.1.1.5.5	temporal data	0.0	0	0			
+3.1.1.5.6	uncertainty	0.0	0	0			
+3.1.1.5.7	inconsistent data	0.0	0	0			
+3.1.2	data structures	0.0	0	0.506	3.1.2. data structures		
+3.1.3	database management system engines	0.154	0.138	2.0	3.1.3.1. dbms engine architectures; 3.1.3.2. database query processing; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks	3.1.3.9.3. distributed database recovery	
+3.1.3.1	dbms engine architectures	0.0	0	0			
+3.1.3.10	main memory engines	0.0	0	0			
+3.1.3.11	online analytical processing engines	0.0	0	0			
+3.1.3.12	stream management	0.0	0	0			
+3.1.3.2	database query processing	0.0	0	0.154	3.1.3.2. database query processing		
+3.1.3.3	database transaction processing	0.0	0	0.154	3.1.3.3. database transaction processing		
+3.1.3.4	record and buffer management	0.0	0	0			
+3.1.3.5	parallel and distributed dbmss	0.0	0	0.154	3.1.3.5. parallel and distributed dbmss		
+3.1.3.6	triggers and rules	0.0	0	0			
+3.1.3.7	database views	0.0	0	0			
+3.1.3.8	integrity checking	0.0	0	0			
+3.1.3.9	distributed database transactions	0.154	0.138	0.308	3.1.3.9.1. distributed data locking; 3.1.3.9.2. deadlocks	3.1.3.9.3. distributed database recovery	
+3.1.3.9.1	distributed data locking	0.0	0	0			
+3.1.3.9.2	deadlocks	0.0	0	0			
+3.1.3.9.3	distributed database recovery	0.154	0.138	0		3.1.3.9.3. distributed database recovery	
+3.1.4	query languages	0.0	0	0.506	3.1.4. query languages		
+3.1.5	information integration	0.165	0.148	1.317	3.1.5.1. deduplication; 3.1.5.2.  transformation and loading; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.6. mediators and data integration; 3.1.5.7. entity resolution; 3.1.5.8. data warehouses; 3.1.5.9. federated databases	3.1.5.4. data cleaning	
+3.1.5.1	deduplication	0.0	0	0			
+3.1.5.2	 transformation and loading	0.0	0	0			
+3.1.5.3	data exchange	0.0	0	0			
+3.1.5.4	data cleaning	0.165	0.148	0		3.1.5.4. data cleaning	
+3.1.5.5	wrappers	0.0	0	0			
+3.1.5.6	mediators and data integration	0.0	0	0			
+3.1.5.7	entity resolution	0.0	0	0			
+3.1.5.8	data warehouses	0.0	0	0			
+3.1.5.9	federated databases	0.0	0	0			
+3.2	information systems applications	0.165	0.148	1.811	3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7 graph mining; 3.2.1.8. process mining; 3.2.1.11 text mining; 3.2.1.10. data mining tools; 3.2.1.9 sequence mining; 3.2.1.12 formal concept analysis	3.2.1.1. data cleaning	
+3.2.1.1	data cleaning	0.165	0.148	0		3.2.1.1. data cleaning	
+3.2.1.10	data mining tools	0.0	0	0			
+3.2.1.11	text mining	0.0	0	0.165	3.2.1.11 text mining		
+3.2.1.12	formal concept analysis	0.0	0	0			
+3.2.1.2	collaborative filtering	0.0	0	0.165	3.2.1.2. collaborative filtering		
+3.2.1.3	association rules	0.0	0	0.165	3.2.1.3. association rules		
+3.2.1.4	clustering	0.0	0	0.165	3.2.1.4. clustering		
+3.2.1.5	nearest-neighbor search	0.0	0	0			
+3.2.1.6	data stream mining	0.0	0	0			
+3.2.1.7	graph mining	0.0	0	0.165	3.2.1.7 graph mining		
+3.2.1.8	process mining	0.0	0	0			
+3.2.1.9	sequence mining	0.0	0	0.165	3.2.1.9 sequence mining		
+3.3	world wide web	0.0	0	0.532	3.3. world wide web		
+3.4	information retrieval	0.0	0	0.532	3.4. information retrieval		
+4.1	visualization	0.0	0	1.0	4.1. visualization		
+5.1	artificial intelligence	0.0	0	1.0	5.1. artificial intelligence		
+5.2	machine learning	0.505	0.893	7.6	5.2.2. learning settings; 5.2.5. cross-validation; 5.2.1.1. supervised learning; 5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.1.3.2. inverse reinforcement learning; 5.2.1.3.4. multi-agent reinforcement learning; 5.2.1.3.5. adversarial learning; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14 multiresolution; 5.2.3.15 support vector machines; 5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.3.10. markov decision processes; 5.2.4.2.1. boosting	
+5.2.1	learning paradigms	0.417	0.53	2.503	5.2.1.1. supervised learning; 5.2.1.2. unsupervised learning; 5.2.1.4. multi-task learning; 5.2.1.3.2. inverse reinforcement learning; 5.2.1.3.4. multi-agent reinforcement learning; 5.2.1.3.5. adversarial learning	5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning	
+5.2.1.1	supervised learning	0.0	0	0.417	5.2.1.1. supervised learning		
+5.2.1.2	unsupervised learning	0.0	0	0.417	5.2.1.2. unsupervised learning		
+5.2.1.3	reinforcement learning	0.417	0.53	1.252	5.2.1.3.2. inverse reinforcement learning; 5.2.1.3.4. multi-agent reinforcement learning; 5.2.1.3.5. adversarial learning	5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning	
+5.2.1.3.1	sequential decision making	0.276	0.248	0		5.2.1.3.1. sequential decision making	
+5.2.1.3.2	inverse reinforcement learning	0.0	0	0			
+5.2.1.3.3	apprenticeship learning	0.313	0.282	0		5.2.1.3.3. apprenticeship learning	
+5.2.1.3.4	multi-agent reinforcement learning	0.0	0	0			
+5.2.1.3.5	adversarial learning	0.0	0	0			
+5.2.1.4	multi-task learning	0.0	0	0.417	5.2.1.4. multi-task learning		
+5.2.2	learning settings	0.0	0	0.505	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.208	0.187	2.913	5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.6. learning linear models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14 multiresolution; 5.2.3.15 support vector machines	5.2.3.10. markov decision processes	
+5.2.3.1	classification and regression trees	0.0	0	0.208	5.2.3.1. classification and regression trees		
+5.2.3.10	markov decision processes	0.208	0.187	0		5.2.3.10. markov decision processes	
+5.2.3.11	partially-observable markov decision processes	0.0	0	0			
+5.2.3.12	stochastic games	0.0	0	0			
+5.2.3.13	learning latent representations	0.0	0	0.208	5.2.3.13. learning latent representations		
+5.2.3.14	multiresolution	0.0	0	0			
+5.2.3.15	support vector machines	0.0	0	0			
+5.2.3.2	kernel methods	0.0	0	0.208	5.2.3.2. kernel methods		
+5.2.3.3	neural networks	0.0	0	0.208	5.2.3.3. neural networks		
+5.2.3.4	logical and relational learning	0.0	0	0.208	5.2.3.4. logical and relational learning		
+5.2.3.5	learning in probabilistic graphical models	0.0	0	0.208	5.2.3.5. learning in probabilistic graphical models		
+5.2.3.6	learning linear models	0.0	0	0.208	5.2.3.6. learning linear models		
+5.2.3.7	factorization methods	0.0	0	0.208	5.2.3.7. factorization methods		
+5.2.3.8	rule learning	0.0	0	0.208	5.2.3.8. rule learning		
+5.2.3.9	instance-based learning	0.0	0	0			
+5.2.4	machine learning algorithms	0.195	0.176	1.172	5.2.4.1. dynamic programming for markov decision processes; 5.2.4.3. spectral methods; 5.2.4.4. feature selection; 5.2.4.5. regularization; 5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.4.2.1. boosting	
+5.2.4.1	dynamic programming for markov decision processes	0.0	0	0.195	5.2.4.1. dynamic programming for markov decision processes		
+5.2.4.2	ensemble methods	0.195	0.176	0.391	5.2.4.2.2. bagging; 5.2.4.2.3. fusion of classifiers	5.2.4.2.1. boosting	
+5.2.4.2.1	boosting	0.195	0.176	0		5.2.4.2.1. boosting	
+5.2.4.2.2	bagging	0.0	0	0			
+5.2.4.2.3	fusion of classifiers	0.0	0	0			
+5.2.4.3	spectral methods	0.0	0	0.195	5.2.4.3. spectral methods		
+5.2.4.4	feature selection	0.0	0	0			
+5.2.4.5	regularization	0.0	0	0.195	5.2.4.5. regularization		
+5.2.5	cross-validation	0.0	0	0			
