@@ -1,0 +1,412 @@
+3,Mathematical logic foundations,,
+3.4.,,General logic,
+3.4.1.,,,Probability inductive logic
+3.4.2.,,,Many-valued logic
+3.4.3.,,,Fuzzy logic logic vagueness
+3.5.,,Set ,
+3.5.1.,,,Partition relations
+3.5.2.,,,Ordered sets
+3.5.3.,,, fuzzy sets
+3.5.4.,,,Applications set 
+4,Combinatorics,,
+4.3.,,Designs configurations,
+4.3.1.,,,Combinatorial matrices incidence Hadamard
+4.3.2.,,,Combinatorial finite geometries 
+4.3.3.,,,Combinatorial matroids geometric lattices
+4.3.4.,,,Combinatorial packing covering
+4.3.5.,,,Combinatorial tessellation tiling 
+4.4.,,Graph ,
+4.4.1.,,,Trees
+4.4.2.,,,Vertex degrees
+4.4.3.,,,Graphical indices
+4.4.4.,,,Planar graphs
+4.4.5.,,,Distance graphs
+4.4.6.,,,Coloring graphs hypergraphs
+4.4.7.,,,Perfect graphs
+4.4.8.,,,Directed graphs digraphs
+4.4.9.,,,Flows graphs
+4.4.10.,,,Signed weighted graphs
+4.4.11.,,,Extremal graph 
+4.4.12.,,,Paths cycles
+4.4.13.,,,Connectivity
+4.4.14.,,,Density toughness
+4.4.15.,,,Graphs linear algebra matrices eigenvalues
+4.4.16.,,,Graph designs isomorphic decomposition
+4.4.17.,,,Isomorphism
+4.4.18.,,,Graph intersection representations
+4.4.19.,,,Hypergraphs
+4.4.20.,,,Vertex subsets dominating sets independent sets cliques
+4.4.21.,,,Edge subsets factorization matching partitioning covering packing
+4.4.23.,,,Structural characterization families graphs
+4.4.24.,,,Graph operations line graphs products
+4.4.25.,,,Graph labelling graceful graphs bandwidth
+4.4.26.,,,Random graphs
+4.4.27.,,,Random walks on graphs
+4.4.28.,,,Small world graphs complex networks
+4.4.29.,,,Graph 
+4.4.31.,,,Chemical graph 
+5,Order lattices ordered algebraic structures,,
+5.5.,,Lattices,
+5.6.,,Modular lattices complemented lattices,
+5.7.,,Distributive lattices,
+5.8.,,Boolean functions
+11,Linear multilinear algebra matrix ,,
+11.3.,,Basic linear algebra,
+11.3.1.,,,Vector spaces linear dependence rank lineability
+11.3.2.,,,Linear transformations semilinear transformations
+11.3.3.,,,Linear equations linear algebraic 
+11.3.4.,,, matrix inversion generalized inverses
+11.3.5.,,,Applications generalized inverses
+11.3.6.,,,Conditioning matrices
+11.3.7.,,,Determinants permanents traces special matrix functions
+11.3.8.,,,Matrix exponential similar functions matrices
+11.3.9.,,,Eigenvalues singular values eigenvectors
+11.3.11.,,,Canonical forms reductions classification
+11.3.13.,,,Factorization matrices
+11.3.14.,,,Matrix equations identities
+11.3.16.,,,Inverse linear algebra
+11.3.18.,,,Linear inequalities matrices
+11.3.19.,,,Inequalities involving eigenvalues eigenvectors
+11.3.21.,,,Norms matrices
+11.3.22.,,,Quadratic bilinear forms
+11.3.23.,,,Multilinear algebra tensor calculus
+11.3.24.,,,Vector tensor algebra
+11.3.25.,,,Grassmann algebras
+11.3.27.,,,Max-plus algebras
+11.4.,,Special matrices,
+11.4.2.,,,Orthogonal matrices
+11.4.3.,,,Fuzzy matrices
+11.4.4.,,,Boolean Hadamard matrices
+11.4.5.,,,Sign pattern matrices
+11.4.6.,,,Positive matrices
+11.4.7.,,,Stochastic matrices
+11.4.8.,,,Random matrices
+23,Special functions,,
+23.1.,,Hypergeometric functions,
+23.1.1.,,,Hypergeometric functions
+23.1.5.,,,Orthogonal polynomials
+23.2.,,Basic hypergeometric functions,
+23.2.1.,,,q-gamma functions q-beta functions integrals
+25,Differential equations,,
+27,Difference functional equations,,
+27.4.,,Difference equations,
+27.4.1.,,,Difference equations
+27.4.12.,,,Fuzzy difference equations
+27.4.13.,,,Stochastic difference equations
+38,Convex discrete geometry,,
+38.1.,,Discrete geometry,
+38.1.1.,,,Lattices convex bodies
+38.1.3.,,,Erdos 
+38.1.4.,,,Packing covering
+38.1.6.,,,Tilings
+38.1.13.,,,Oriented matroids
+38.1.14.,,,Combinatorial complexity
+44,Probability stochastic processes,,
+44.10.,,Probability on algebraic topological structures,
+44.11.,,Combinatorial probability,
+44.12.,,Geometric probability stochastic geometry,
+44.14.,,Limit probability ,
+44.14.1.,,,Central limit weak 
+44.14.2.,,,Large deviations
+44.15.,,Stochastic processes,
+44.15.6.,,,Gaussian processes
+44.15.13.,,,Signal detection filtering stochastic processes
+44.15.14.,,,Stopping times optimal stopping gambling 
+44.15.15.,,,Martingales
+44.15.19.,,,Sums independent random variables random walks
+44.15.25.,,,Random fields
+44.16.,,Markov processes,
+44.16.1.,,,Discrete-time Markov processes on general state spaces
+44.16.2.,,,Markov chains discrete-time Markov processes on discrete state spaces
+44.16.4.,,,Computational Markov chains
+44.16.15.,,,Diffusion processes
+44.16.16.,,,Brownian motion
+45,Statistics,,
+45.9.3.,,,Fuzzy analysis statistics
+45.10.,,Sufficiency information,
+45.10.1.,,,Sufficient statistics fields
+45.10.2.,,,Statistical topics
+45.10.3.,,,Information geometry statistical 
+45.10.4.,,, statistical experiments
+45.10.5.,,,Statistical fuzziness sufficiency information
+45.11.,,Statistical decision ,
+45.12.,,Statistical sampling topics,
+45.12.1.,,,Sampling sample surveys
+45.12.2.,,,Missing data
+45.12.3.,,,Causal inference from observational studies
+45.13.,,Statistical distribution ,
+45.13.1.,,,Characterization structure statistical distributions
+45.13.2.,,,Exact distribution statistics
+45.13.3.,,,Approximations statistical distributions nonasymptotic
+45.13.4.,,,Asymptotic distribution statistics
+45.13.5.,,,Fuzziness connection with statistical distributions
+45.14.,,Statistical inference,
+45.14.1.,,,Hypothesis testing
+45.14.3.,,,Ranking selection procedures
+45.14.4.,,,Point estimation
+45.14.6.,,,Bayesian inference
+45.14.7.,,,Tolerance confidence regions
+45.14.9.,,,Robustness adaptive procedures
+45.14.10.,,,Bootstrap jackknife resampling
+45.14.11.,,,Inference fuzziness
+45.14.12.,,,Density estimation
+45.14.13.,,,Quantile regression
+45.14.18.,,,Order statistics empirical distribution functions
+45.14.19.,,,Statistics extreme values tail inference
+45.16.,,Multivariate analysis,
+45.16.1.,,,Characterization structure multivariate probability distributions copulas
+45.16.2.,,,Multivariate distribution statistics
+45.16.3.,,,Directional data spatial statistics
+45.16.4.,,,Estimation multivariate analysis
+45.16.5.,,,Hypothesis testing multivariate analysis
+45.16.6.,,,Contingency tables
+45.16.7.,,,Measures association correlation canonical correlation
+45.16.8.,,,Probabilistic graphical models
+45.16.9.,,,Factor analysis principal components correspondence analysis
+45.16.10.,,,Classification discrimination cluster analysis statistical mixture models
+45.16.11.,,,Image analysis multivariate analysis
+45.16.12.,,,Multivariate analysis fuzziness
+45.17.,,Linear inference regression,
+45.17.1.,,,General nonlinear regression
+45.17.2.,,,Linear regression mixed models
+45.17.3.,,,Ridge regression shrinkage estimators Lasso
+45.17.4.,,,Analysis variance covariance ANOVA
+45.17.5.,,,Generalized linear models logistic models
+45.17.6.,,,Paired multiple comparisons multiple testing
+45.17.7.,,,Diagnostics linear inference regression
+45.17.8.,,,Fuzziness linear inference regression
+45.18.,,Design statistical experiments,
+45.18.1.,,,Optimal statistical designs
+45.18.2.,,,Statistical block designs
+45.18.3.,,,Factorial statistical designs
+45.18.4.,,,Response surface designs
+45.18.5.,,,Robust parameter designs
+45.18.6.,,,Fuzziness design statistical experiments
+45.19.,,Sequential statistical ,
+45.20.,,Inference from stochastic processes,
+45.20.1.,,,Markov processes hypothesis testing
+45.20.2.,,,Markov processes estimation hidden Markov models
+45.20.5.,,,Time series auto-correlation regression statistics GARCH
+45.20.6.,,,Inference from stochastic processes spectral analysis
+45.20.7.,,,Inference from stochastic processes prediction filtering
+45.20.8.,,,Inference from spatial processes
+45.20.9.,,,Random fields image analysis
+45.20.10.,,,Neural nets approaches inference from stochastic processes
+45.20.11.,,,Inference from stochastic processes fuzziness
+45.21.,,Survival analysis censored data,
+45.21.1.,,,Censored data models
+45.21.2.,,,Estimation survival analysis censored data
+45.21.3.,,,Testing survival analysis censored data
+45.21.4.,,,Reliability life testing
+45.21.5.,,,Fuzziness survival analysis censored data
+45.22.,,Applications statistics,
+45.24.,,Statistics on algebraic topological structures,
+45.24.1.,,,Algebraic statistics
+45.24.2.,,,Statistical big data data 
+45.24.3.,,,Functional data analysis
+45.24.4.,,,Statistics on metric spaces
+45.24.5.,,,Statistics on manifolds
+45.24.6.,,,Topological data analysis
+46,Numerical analysis,,
+46.8.,,Tables numerical analysis,
+46.9.,,Acceleration convergence numerical analysis,
+46.10.,,Probabilistic stochastic differential equations,
+46.10.1.,,,Monte Carlo 
+46.10.2.,,,Random number generation numerical analysis
+46.10.3.,,,Probabilistic models generic numerical probability statistics
+46.11.,,Numerical approximation computational geometry primarily ,
+46.11.1.,,,Numerical interpolation
+46.11.2.,,,Numerical computation using splines
+46.11.3.,,,Numerical smoothing curve fitting
+46.11.4.,,,Numerical radial basis function approximation
+46.11.5.,,, approximation functions
+46.11.6.,,,Computer-aided design modeling curves surfaces
+46.11.7.,,,Numerical computer graphics image analysis computational geometry
+46.11.8.,,,Computer robotic vision
+46.11.10.,,,Numerical differentiation
+46.11.11.,,,Numerical integration
+46.13.,,Numerical linear algebra,
+46.13.1.,,,Direct numerical linear systems matrix inversion
+46.13.2.,,,Preconditioners iterative 
+46.13.3.,,,Iterative numerical linear systems
+46.13.4.,,,Numerical computation eigenvalues eigenvectors matrices
+46.13.5.,,,Numerical solutions inverse eigenvalue 
+46.13.6.,,,Numerical solutions overdetermined systems pseudoinverses
+46.13.7.,,,Ill-posedness regularization numerical linear algebra
+46.13.8.,,,Orthogonalization numerical linear algebra
+46.13.9.,,,Numerical computation matrix norms conditioning scaling
+46.13.11.,,,Numerical matrix equations
+46.13.12.,,,Computational sparse matrices
+46.13.13.,,,Numerical low-rank matrix approximation matrix compression
+46.13.14.,,,Numerical computation matrix exponential similar matrix functions
+46.14.,,Error analysis interval analysis,
+46.14.2.,,,Interval finite arithmetic
+46.14.3.,,,General interval analysis
+46.16.,,Numerical mathematical programming optimization variational techniques,
+46.16.1.,,,Numerical mathematical programming 
+46.16.2.,,,Numerical optimization variational techniques
+46.17.,,Numerical ordinary differential equations,
+46.17.1.,,,Numerical functional-differential equations
+46.17.6.,,,Numerical solution ill-posed involving ordinary differential equations
+46.17.7.,,,Numerical solution inverse involving ordinary differential equations
+46.17.10.,,,Finite difference finite volume ordinary differential equations
+46.21.,,Graphical numerical analysis,
+46.21.1.,,,Graphical numerical analysis
+46.22.,,Numerical Fourier analysis,
+46.22.1.,,,Numerical trigonometric approximation interpolation
+46.22.2.,,,Numerical discrete fast Fourier transforms
+46.22.3.,,,Numerical wavelets
+46.23.,,Computer numerical ,
+46.23.1.,,,Numerical computer arithmetic
+46.23.2.,,,Parallel numerical computation
+46.23.3.,,,Numerical specific classes architectures
+46.23.4.,,,Packaged numerical 
+46.23.5.,,,Complexity performance numerical 
+47,Computer ,,
+47.9.,, data,
+47.9.1.,,, data
+47.9.2.,,,Data structures
+47.9.3.,,,Searching sorting
+47.9.4.,,,Database 
+47.9.5.,,,Information storage retrieval data
+47.9.6.,,,Data encryption computer 
+47.9.7.,,,Privacy data
+47.9.8.,,,Coding information compaction compression models communication encoding
+47.10.,, ,
+47.10.14.,,, information Kolmogorov complexity
+47.10.15.,,,Computational learning 
+47.10.18.,,,Semantics 
+47.10.19.,,,Abstract data types algebraic specification
+47.11.,,Discrete mathematics relation computer ,
+47.11.4.,,,Graph graph drawing computer 
+47.11.5.,,,Metric embeddings as computational 
+47.11.6.,,,Combinatorics on words
+47.12.,,Artificial intelligence,
+47.12.1.,,,General topics artificial intelligence
+47.12.2.,,,Learning adaptive systems artificial intelligence
+47.12.3.,,,Artificial neural networks deep learning
+47.12.4.,,,Computational data analysis big data
+47.12.5.,,,Pattern recognition speech recognition
+47.12.6.,,, solving heuristics search strategies
+47.12.7.,,,Logic artificial intelligence
+47.12.8.,,,Knowledge representation
+47.12.9.,,, languages software systems knowledge-based systems expert systems
+47.12.10.,,,Reasoning under uncertainty
+47.12.11.,,,Robotics
+47.12.12.,,,Agent technology
+47.12.13.,,,Machine vision scene understanding
+47.12.14.,,,Natural language processing 
+47.13.,, applications,
+47.13.3.,,,Computer graphics computational geometry digital 
+47.13.5.,,, image processing
+47.13.6.,,, text processing mathematical typography
+47.13.7.,,, information systems hypertext navigation interfaces decision support
+47.15.,, computer ,
+47.15.3.,,,Parallel computer 
+47.15.4.,,,Distributed 
+47.15.5.,,,Randomized 
+47.15.6.,,,Approximation 
+47.15.7.,,,Online streaming 
+47.15.8.,,,Symbolic computation algebraic computation
+47.15.9.,,, on strings
+47.15.12.,,,Evolutionary genetic 
+57,Geophysics,,
+57.6.,,Geophysics,
+57.6.1.,,,Climate climate modeling
+57.6.2.,,,Meteorology atmospheric physics
+57.6.3.,,,Seismology tsunami modeling earthquakes
+57.6.4.,,,Potentials prospecting
+57.6.5.,,,Inverse geophysics
+57.6.6.,,,Geo-electricity geomagnetism
+57.6.7.,,,Geodesy mapping 
+57.6.8.,,,Geostatistics
+57.6.9.,,,Glaciology
+58,Operations research mathematical programming,,
+58.6.,,Operations research management ,
+58.6.1.,,,Inventory storage reservoirs
+58.6.2.,,,Transportation logistics supply chain management
+58.6.3.,,,Stochastic network models
+58.6.4.,,,Communication networks
+58.6.5.,,,Traffic 
+58.6.6.,,,Queues service
+58.6.7.,,,Reliability availability maintenance inspection
+58.6.8.,,,Deterministic scheduling 
+58.6.9.,,,Stochastic scheduling 
+58.6.10.,,,Search 
+58.6.11.,,,Management decision making multiple objectives
+58.6.12.,,,Marketing advertising
+58.7.,,Mathematical programming,
+58.7.1.,,,Linear programming
+58.7.7.,,,Stochastic programming
+58.7.9.,,,Quadratic programming
+58.7.10.,,,Semidefinite programming
+58.7.15.,,,Combinatorial optimization
+58.7.16.,,,Multi-objective goal programming
+58.7.24.,,,Markov semi-Markov decision processes
+58.7.25.,,,Duality
+58.7.26.,,,Minimax mathematical programming
+58.7.34.,,,Polyhedral combinatorics branch--bound branch--cut
+59,Game economics social behavioral ,,
+59.1.,,Mathematical economics,
+59.1.1.,,,Risk models
+59.1.2.,,,Decision 
+59.1.3.,,,Individual preferences
+59.1.4.,,,Group preferences
+59.1.5.,,,Consumer behavior demand 
+59.1.12.,,,Statistical economic indices measures
+59.1.13.,,,Economic time series analysis
+59.2.,,Social behavioral general topics,
+59.2.1.,,,Measurement social behavioral 
+59.2.2.,,,One- multidimensional scaling social behavioral 
+59.2.3.,,,Clustering social behavioral 
+59.3.,,Mathematical sociology anthropology,
+59.3.1.,,,Models societies social urban evolution
+59.3.3.,,,Mathematical geography demography
+59.3.4.,,,Spatial models sociology
+59.3.5.,,,Social networks opinion dynamics
+59.4.,,Mathematical psychology,
+59.4.4.,,,Measurement performance psychology
+59.5.,,Actuarial mathematical finance,
+59.5.1.,,,Derivative securities option pricing hedging
+59.5.2.,,,Interest rates asset pricing stochastic models
+59.5.3.,,,Credit risk
+59.5.4.,,,Financial networks contagion systemic risk regulation
+59.5.5.,,,Corporate finance dividends real options
+60,Biology natural ,,
+60.1.,,Mathematical biology general,
+60.1.1.,,,Biology biomathematics
+60.1.2.,,,Taxonomy cladistics statistics mathematical biology
+60.1.3.,,,Biostatistics
+60.1.4.,,,Neural networks biological studies artificial life topics
+60.2.,,Physiological cellular medical topics,
+60.2.1.,,,Cell biology
+60.2.2.,,,Biochemistry molecular biology
+60.2.3.,,,Systems biology networks
+60.2.4.,,,Medical applications
+60.2.5.,,,Biomedical imaging signal processing
+60.2.6.,,,Medical epidemiology
+60.3.,,Genetics population dynamics,
+60.3.1.,,,Evolution
+60.3.2.,,,Protein sequences DNA sequences
+60.3.3.,,,Epidemiology
+60.3.4.,,,Ecology
+60.4.,,Chemistry,
+60.4.1.,,,Molecular structure differential topology
+61,Systems control,,
+61.7.,,Stochastic systems control,
+61.7.1.,,,Estimation detection stochastic control 
+61.7.2.,,,Filtering stochastic control 
+61.7.3.,,,Identification stochastic control 
+61.7.4.,,,Data smoothing stochastic control 
+61.7.5.,,,Least squares stochastic control systems
+61.7.6.,,,Stochastic learning adaptive control
+62,Information communication circuits,,
+62.6.,,Communication information,
+62.6.1.,,,Image processing compression reconstruction information communication 
+62.6.2.,,,Application orthogonal special functions
+62.6.3.,,,Signal characterization reconstruction filtering
+62.6.4.,,,Detection information communication 
+62.6.5.,,,Modulation demodulation information communication 
+62.6.7.,,,Informational data analysis big data
+62.6.8.,,,Measures information entropy
+62.6.14.,,, questionnaires
